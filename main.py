@@ -1,1 +1,3 @@
-print('my first app')
+print('My first app')
+print('New Funtions')
+print('load')
